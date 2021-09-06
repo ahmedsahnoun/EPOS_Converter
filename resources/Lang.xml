@@ -1,0 +1,37 @@
+<Text>
+   <English>
+      <Browse>Browse</Browse>
+      <Convert>Convert</Convert>
+      <Export>Export</Export>
+      <Copy>Copy</Copy>
+      <Language>Language</Language>
+      <TextConversion>Text conversion</TextConversion>
+      <SocketConversion>Socket conversion</SocketConversion>
+      <actionDark>Dark</actionDark>
+      <actionLight>Light</actionLight>
+      <menuTheme>Theme</menuTheme>
+      <LaunchButton>Activate/Deactivate server</LaunchButton>
+      <HostLabel>Host</HostLabel>
+      <PortLabel>Port</PortLabel>
+      <InputLabel>Input:</InputLabel>
+      <OutputLabel>Output:</OutputLabel>
+   </English>
+   <Francais>
+      <Browse>Parcourir</Browse>
+      <Convert>Convertir</Convert>
+      <Export>Exporter</Export>
+      <Copy>Copier</Copy>
+      <Language>Langue</Language>
+      <Language>Language</Language>
+      <TextConversion>Conversion text</TextConversion>
+      <SocketConversion>Conversion socket</SocketConversion>
+      <actionDark>Sombre</actionDark>
+      <actionLight>Blanc</actionLight>
+      <menuTheme>Theme</menuTheme>
+      <LaunchButton>Activer/Désactiver serveur</LaunchButton>
+      <HostLabel>Hote</HostLabel>
+      <PortLabel>Port</PortLabel>
+      <InputLabel>Entrée:</InputLabel>
+      <OutputLabel>Sortie:</OutputLabel>
+   </Francais>
+</Text>

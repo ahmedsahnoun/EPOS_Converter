@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceRequest ApplicationSender="ECR_OPI_INGENICO" RequestID="47" RequestType="Login" WorkstationID="00000001" xmlns="http://www.nrf-arts.org/IXRetail/namespace" xmlns:IFSF="http://www.ifsf.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Program Files\Wincor Nixdorf\Wincor Nixdorf OPI\OPISchema\ServiceRequest.xsd">
+   <POSdata>
+        <POSTimeStamp>2021-03-24T10:52:51-01:00</POSTimeStamp>
+   </POSdata>
+   <PrivateData>
+      <PrinterParam Type="Printer">
+         <Receipt Type="Merchant">yes</Receipt>
+         <Receipt Type="Administration">yes</Receipt>
+      </PrinterParam>
+      <PrinterParam Type="PrinterReceipt">
+         <Receipt Type="Customer">yes</Receipt>
+      </PrinterParam>
+      <SignatureParam>
+         <GetConfirmation Timeout="180">yes</GetConfirmation>
+      </SignatureParam></PrivateData>
+</ServiceRequest>
